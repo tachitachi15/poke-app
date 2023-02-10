@@ -1,0 +1,18 @@
+.card {
+  text-align: center;
+  width: 290px;
+  box-shadow: 0px 0px 20px 1px #777777;
+  border-radius: 16px;
+  background-color: white;
+}
+
+.cardName {
+  font-size: 24px;
+  margin-top: 0;
+  margin-bottom: 12px;
+  padding: 0;
+}
+
+.cardInfo {
+  text-align: center;
+}
